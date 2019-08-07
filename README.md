@@ -2,7 +2,7 @@
 
 Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 ---|---
-`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/singularity.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity)
+`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/boost_units_examples.svg?branch=master)](https://travis-ci.org/richelbilderbeek/boost_units_examples)
 
 Boost.Units examples.
 
